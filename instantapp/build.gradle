@@ -1,0 +1,11 @@
+apply plugin: 'com.android.instantapp'
+
+dependencies {
+    implementation project(':instappfeature')
+    implementation project(':base')
+}
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+}

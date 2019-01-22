@@ -1,0 +1,1 @@
+include ':instappfeature', ':app', ':base', ':instantapp', ':things'
