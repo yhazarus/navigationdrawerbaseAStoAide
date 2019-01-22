@@ -1,1 +1,1 @@
-include ':instappfetature', ':app', ':base', ':instantapp', ':things'
+include ':instappfeature', ':app', ':base', ':instantapp', ':things'

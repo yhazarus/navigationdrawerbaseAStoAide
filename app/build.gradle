@@ -21,7 +21,7 @@ android {
 }
 
 dependencies {
-    implementation project(':instappfetature')
+    implementation project(':instappfeature')
     implementation project(':base')
     implementation 'com.google.android.gms:play-services-ads:12.0.1'
 }
